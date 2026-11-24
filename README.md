@@ -1,17 +1,21 @@
 # Hi, I'm Julio Barallobre 👋
 
-Software Engineer and full-stack developer, self-employed. I build web apps,
-Telegram bots and crypto tools in **JavaScript / TypeScript** and **Python**.
-Based in Cuba, available for remote work worldwide.
+![Available for hire](https://img.shields.io/badge/Available%20for%20hire-Remote%20worldwide-brightgreen)
+![GitHub followers](https://img.shields.io/github/followers/airdropverificados-ship-it?style=social)
 
-## What I do
+Full-stack developer working remotely worldwide. I build web apps, Telegram
+bots and crypto tools in **JavaScript / TypeScript** and **Python**.
+
+🔭 Currently running a Telegram bookstore with a 150,000+ book catalogue.
+
+## 💼 Services
 
 - 💻 **Full-stack web development** — React, Node.js, TypeScript, Python
 - 🤖 **Telegram bots & Mini Apps** — stores, wallets, payment flows
 - ⛓️ **Crypto tools** — multi-chain wallets, swaps, staking
 - 🎬 **Video automation** — scripted pipelines that generate narrated video on a $0 budget
 
-## Featured projects
+## 🚀 Featured projects
 
 - **[NovaPay](https://github.com/airdropverificados-ship-it/novapay-backend)** — Multi-chain
   self-custody crypto wallet as a Telegram Mini App: Lightning Swap, dynamic
@@ -27,11 +31,14 @@ Based in Cuba, available for remote work worldwide.
 - **Telegram bookstore bot** — live store with a 150,000+ book catalogue and
   crypto payments ([@JBV_LibreriaBot](https://t.me/JBV_LibreriaBot)).
 
-## Stack
+## 🛠️ Stack
 
 `JavaScript` `TypeScript` `Python` `React` `Node.js` `Base44` `SQLite` `Git`
 
 ## 📫 Contact
 
 - ✉️ mandoventas16@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/julio-barallobre-0323591a0)
+- 𝕏 [X / Twitter](https://x.com/DineroConIAFree)
+- 🛒 [App Code Vault — my apps for sale](https://app-code-vault.netlify.app)
 - 🌍 Remote work worldwide
