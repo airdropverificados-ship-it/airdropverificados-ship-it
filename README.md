@@ -28,6 +28,13 @@ bots and crypto tools in **JavaScript / TypeScript** and **Python**.
   (Colab, Kaggle, Lightning) with local TTS, assembly and QC. Python.
 - **[freevideo-colab-smoke-test](https://github.com/airdropverificados-ship-it/freevideo-colab-smoke-test)** —
   One-shot smoke test of FreeVideo (MiniMax H3) on a free Colab T4.
+- **[telegram-bot-starter](https://github.com/airdropverificados-ship-it/telegram-bot-starter)** —
+  Minimal Telegram bot template in Python: polling + webhook, SQLite, no heavy
+  dependencies.
+- **[narrate-clips](https://github.com/airdropverificados-ship-it/narrate-clips)** —
+  Turn long text into consecutive narrated video clips with free TTS + ffmpeg.
+- **[clip-qc](https://github.com/airdropverificados-ship-it/clip-qc)** — Check video
+  clips before you publish them: duration, audio, silence, loudness.
 - **Telegram bookstore bot** — live store with a 150,000+ book catalogue and
   crypto payments ([@JBV_LibreriaBot](https://t.me/JBV_LibreriaBot)).
 
